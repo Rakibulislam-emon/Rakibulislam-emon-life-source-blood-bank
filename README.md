@@ -7,6 +7,11 @@
 * stripe payment methode for donations
 * search functionality
 
+#commands for use this repo 
+* git clone
+* open code editor
+* npm i
+* npm run dev
 
 
 #client
