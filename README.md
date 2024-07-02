@@ -1,5 +1,5 @@
 # life-source-blood-bank
-**this is a blood donation website where needy peoples can find blood nearby them and they can donate blood also**
+**this is a blood donation website where  peoples can find blood nearby them and they can donate blood also.**
 
 #Features
 * user can request for blood
