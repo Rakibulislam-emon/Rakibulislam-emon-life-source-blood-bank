@@ -1,4 +1,9 @@
-# Rakibulislam-emon-life-source-blood-bank
+# life-source-blood-bank
+
+#Features
+* user can request for blood
+* user can find blood by thire location and blood group
+* dinamic dashboard 
 
 
 #client
