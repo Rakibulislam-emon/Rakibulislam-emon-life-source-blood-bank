@@ -3,7 +3,10 @@
 #Features
 * user can request for blood
 * user can find blood by thire location and blood group
-* dinamic dashboard 
+* dinamic dashboard
+* stripe payment methode for donations
+* search functionality
+
 
 
 #client
